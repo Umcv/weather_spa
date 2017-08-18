@@ -1,0 +1,8 @@
+﻿import React from 'react';
+import ReactDOM from 'react-dom';
+import Root from './basic/Root';
+
+ReactDOM.render(
+	<Root />,
+	document.getElementById("root")
+);
