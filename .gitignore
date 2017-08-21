@@ -13,10 +13,10 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
-/vendor
+#/vendor
 
 # composer itself is not needed
-composer.phar
+#composer.phar
 
 # Mac DS_Store Files
 .DS_Store
@@ -35,10 +35,10 @@ access.log
 test.log
 
 #js output
-/web/js
+#/web/js
 
 #images
-/web/img/png
+#/web/img/png
 
 #js node modules
 /js/node_modules
